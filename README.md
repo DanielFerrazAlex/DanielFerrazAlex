@@ -9,8 +9,6 @@
 
 ![DanielFerrazAlex's stats](https://github-readme-stats.vercel.app/api?username=DanielFerrazAlex&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerrazAlex&layout=compact)](https://github.com/DanielFerrazAlex/github-readme-stats)
-
 ## Linguagens que utilizo:
 
 <div style="display: inline_block"><br/>
