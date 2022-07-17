@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19b00&height=180&section=header&text=Daniel Ferraz Alex&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
-<div>
-  <a href="https://github.com/rafaballerini">
+<div align="center">
+  <a href="https://github.com/DanielFerrazAlex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFerrazAlex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerrazAlex&layout=compact&langs_count=7&theme=dark"/>
 </div></br>
