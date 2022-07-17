@@ -1,18 +1,30 @@
- ##    Olá! Meu nome é Daniel Ferraz Alex
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19b00&height=180&section=header&text=Daniel Ferraz Alex&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/danielferrazalex/)](https://www.linkedin.com/in/danielferrazalex/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/danielfalex/)](https://www.instagram.com/danielfalex/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white=https://steamcommunity.com/id/PongePonge/)](https://steamcommunity.com/id/PongePonge/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white=https://www.twitch.tv/the_mooonk)](https://www.twitch.tv/the_mooonk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com/Danifalex)](https://twitter.com/Danifalex)
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFerrazAlex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerrazAlex&layout=compact&langs_count=7&theme=dark"/>
+</div></br>
 
-![DanielFerrazAlex's stats](https://github-readme-stats.vercel.app/api?username=DanielFerrazAlex&show_icons=true&theme=dracula)
+## Contatos:
 
-## Linguagens que utilizo:
+<div> 
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<a href="https://www.instagram.com/danielfalex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "danielferrazalex@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danielferrazalex/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/Danifalex" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
+## Lingugens que utilizo:
+
+<div>
+ <img alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19b00&height=120&section=footer"/>
