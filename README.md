@@ -7,7 +7,9 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white=https://www.twitch.tv/the_mooonk)](https://www.twitch.tv/the_mooonk)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com/Danifalex)](https://twitter.com/Danifalex)
 
-![DanielFerrazAlex GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFerrazAlex&show_icons=true&theme=dark)
+![DanielFerrazAlex's stats](https://github-readme-stats.vercel.app/api?username=DanielFerrazAlex&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerrazAlex&layout=compact)](https://github.com/DanielFerrazAlex/github-readme-stats)
 
 ## Linguagens que utilizo:
 
