@@ -32,8 +32,8 @@
   ## Linguagem que estou aprendendo no momento:
 
 <div>
-   <img alt="Daniel-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img alt="Daniel-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
+   <img alt="Daniel-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img alt="Daniel-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c19b00&height=120&section=footer"/>
